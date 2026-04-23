@@ -187,7 +187,7 @@ export default function Home() {
           <div>
             <h4 className="text-lg font-bold mb-6 font-poppins uppercase tracking-widest text-sm text-slate-200">Contact</h4>
             <p className="text-slate-400 text-sm font-poppins mb-2">Email: info@educationbd.com</p>
-            <p className="text-slate-400 text-sm font-poppins">Phone: +880 1234 567 890</p>
+            <p className="text-slate-400 text-sm font-poppins">Phone: +880 1711-316704</p>
           </div>
         </div>
         <div className="text-center mt-12 pt-10 border-t border-white/5">
